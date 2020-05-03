@@ -1,0 +1,31 @@
+/* add css module styles here (optional) */
+
+._2hTXI {
+  all: unset;
+  border: none;
+}
+
+._3qw0K {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  bottom: 0 !important;
+  right: 0 !important;
+}
+
+._OK5K3 {
+  /*background: rgba(0, 0, 0, 0.3);*/
+  background-image: url(images/black-translucent-bg.png);
+  background-repeat: repeat;
+}
+
+._Xt-75 {
+  background: white;
+  border-radius: 5px;
+  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
